@@ -1,0 +1,233 @@
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\proje_ErdalBakkal.exe.config
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\proje_ErdalBakkal.exe
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\proje_ErdalBakkal.pdb
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Data.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Utils.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Data.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Utils.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.csprojResolveAssemblyReference.cache
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.frmKullaniciGiris.resources
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Properties.Resources.resources
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.csproj.GenerateResource.Cache
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.exe.licenses
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.exe
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.pdb
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraBars.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraBars.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.frmAnaForm.resources
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Office.v17.1.Core.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Office.v17.1.Core.xml
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+c:\users\teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.frmKullaniciListe.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.frmKullaniciDetay.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmProje.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmTanimlamalar.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmGenelTanimlar.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.stok.frmOzelKodSecim.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.stok.frmProjeKoduSecim.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.stok.frmStokDetay.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.stok.frmStokListe.resources
+C:\Users\Teknik\Documents\Visual Studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Cari.frmCariListe.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Cari.frmCariDetay.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Cari.frmCariTurEkle.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Cari.frmOzelKodEkle.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmCariGrup.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmCariTur.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmKasa.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmKDVOran.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmKullanici.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmOzelKod.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmStokBirim.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmStokMarka.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Kasa.frmKasaIslemDetay.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Kasa.frmKasaIslemListesi.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Kasa.frmKasaNakitOdemeTahsilatListe.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.frmHizliSatis.resources
+C:\Users\Teknik\documents\visual studio 2015\Projects\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Stok.frmStokSecim.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\proje_ErdalBakkal.exe.config
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.exe
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.pdb
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\proje_ErdalBakkal.exe
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\proje_ErdalBakkal.pdb
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.csprojResolveAssemblyReference.cache
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Cari.frmCariDetay.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Cari.frmCariListe.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Cari.frmCariTurEkle.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Cari.frmOzelKodEkle.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.frmAnaForm.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.frmHizliSatis.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.frmKullaniciDetay.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.frmKullaniciGiris.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.frmKullaniciListe.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Kasa.frmKasaIslemDetay.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Kasa.frmKasaIslemListesi.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Kasa.frmKasaNakitOdemeTahsilatListe.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Properties.Resources.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.stok.frmOzelKodSecim.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.stok.frmProjeKoduSecim.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.stok.frmStokDetay.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.stok.frmStokListe.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Stok.frmStokSecim.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmCariGrup.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmCariTur.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmGenelTanimlar.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmKasa.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmKDVOran.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmKullanici.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmOzelKod.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmProje.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmStokBirim.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmStokMarka.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.Tanimlamalar.frmTanimlamalar.resources
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.csproj.GenerateResource.Cache
+C:\Users\EmirhanTalha\Desktop\Calismalarim\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.exe.licenses
+C:\Users\EmirhanTalha\Desktop\Calismalarim\EmirhanTalhaStudies\proje_ErdalBakkal\proje_ErdalBakkal\bin\Debug\proje_ErdalBakkal.exe.config
+C:\Users\EmirhanTalha\Desktop\Calismalarim\EmirhanTalhaStudies\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.exe
+C:\Users\EmirhanTalha\Desktop\Calismalarim\EmirhanTalhaStudies\proje_ErdalBakkal\proje_ErdalBakkal\obj\Debug\proje_ErdalBakkal.pdb

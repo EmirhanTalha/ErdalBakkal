@@ -1,0 +1,187 @@
+﻿using DevExpress.XtraEditors;
+using System;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Windows.Forms;
+
+namespace proje_ErdalBakkal.Tanimlamalar
+{
+  public partial class frmStokBirim : DevExpress.XtraEditors.XtraUserControl
+  {
+    public frmStokBirim()
+    {
+      InitializeComponent();
+    }
+    SqlDataAdapter da = new SqlDataAdapter();
+    BindingSource bs = new BindingSource();
+    DataTable dt = new DataTable();
+    bool islem = false;
+    int SatirNo = 0;
+
+    private void frmStokBirim_Load(object sender, EventArgs e)
+    {
+      try
+      {
+        
+        using (da.SelectCommand = new SqlCommand(@"SELECT     StokBirimID, StokBirimTanim FROM dbo.StokBirim", cs.csBaglanti.BaglantiGetir()))
+        {
+          GridGuncelle();
+          bs.DataSource = dt;
+          gcStokBirim.DataSource = bs;
+
+          txtStokBirimTanim.DataBindings.Clear();
+          txtStokBirimTanim.DataBindings.Add("Text", bs, "StokBirimTanim");
+
+          gvStokBirim.Columns["StokBirimID"].Visible = false;
+          gvStokBirim.Columns["StokBirimTanim"].Caption = @"Stok Birim Tanım";
+        }
+
+        gvStokBirim.OptionsView.ShowGroupPanel = false;
+      }
+      catch (Exception hata)
+      {
+				XtraMessageBox.Show("Hata Kodu : " + hata.Message + "\nHata Açıklama: " + hata.StackTrace, "Erdal Bakkal", MessageBoxButtons.OK, MessageBoxIcon.Error);
+			}
+    }
+    void NesneEnabled(bool islem)
+    {
+      btnEkle.Enabled = islem;
+      btnSil.Enabled = islem;
+      btnDegistir.Enabled = islem;
+
+      btnVazgec.Enabled = !islem;
+      btnKaydet.Enabled = !islem;
+
+      btnGuncelle.Enabled = islem;
+
+      txtStokBirimTanim.Enabled = !islem;
+      gcStokBirim.Enabled = islem;
+    }
+    private void AktifTextBackColorChange(object sender, EventArgs e)
+    {
+      DevExpress.XtraEditors.TextEdit AktifText = (TextEdit)sender;
+      AktifText.BackColor = Color.AntiqueWhite;
+    }
+    private void PasifTextBackColorChange(object sender, EventArgs e)
+    {
+      DevExpress.XtraEditors.TextEdit AktifText = (TextEdit)sender;
+      AktifText.BackColor = Color.White;
+    }
+    private void btnEkle_Click(object sender, EventArgs e)
+    {
+      islem = true;
+      NesneEnabled(false);
+      txtStokBirimTanim.Text = "";
+      txtStokBirimTanim.Focus();
+    }
+    private void btnSil_Click(object sender, EventArgs e)
+    {
+      try
+      {
+        if (gvStokBirim.FocusedRowHandle < 0) return;
+        int seciliSatirNo = gvStokBirim.FocusedRowHandle;
+
+        #region Kullanılıp Kullanılmadığının kontrolü yapılıyor.
+        int satirSayisi = 0;
+        using (SqlCommand cmd = new SqlCommand(@"SELECT COUNT(*) as SatirSayisi FROM Cari WHERE (StokBirimID = @StokBirimID )", cs.csBaglanti.BaglantiGetir()))
+        {
+          cmd.Parameters.Add("@StokBirimID", SqlDbType.Int).Value = gvStokBirim.GetFocusedRowCellValue("StokBirimID").ToString();
+          using (SqlDataReader dr = cmd.ExecuteReader(CommandBehavior.SingleResult))
+            if (dr.Read())
+              satirSayisi = (int)dr["SatirSayisi"];
+        }
+
+        if (satirSayisi > 0)
+        {
+          XtraMessageBox.Show("Kayıt, Cari Bilgilerinde daha önceden kullanılmış.\n\nSeçili Kayıt Silinemez.", "Perakende Satış", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+          return;
+        }
+        #endregion
+
+        if (XtraMessageBox.Show("Seçili Kaydı Silmek İstediğinize Emin misiniz ?", "Perakende Satış", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2) == System.Windows.Forms.DialogResult.No)
+          return;
+
+        using (SqlCommand cmd = new SqlCommand("Delete From StokBirim Where StokBirimID=@StokBirimID", cs.csBaglanti.BaglantiGetir()))
+        {
+          cmd.Parameters.Add("@StokBirimID", SqlDbType.Int).Value = gvStokBirim.GetFocusedRowCellValue("StokBirimID").ToString();
+           cmd.ExecuteNonQuery();
+        }
+        dt.Clear();
+        da.Fill(dt);
+        gvStokBirim.FocusedRowHandle = seciliSatirNo - 1;
+      }
+      catch (Exception hata)
+      {
+				XtraMessageBox.Show("Hata Kodu : " + hata.Message + "\nHata Açıklama: " + hata.StackTrace, "Erdal Bakkal", MessageBoxButtons.OK, MessageBoxIcon.Error);
+			}
+    }
+    private void btnDegistir_Click(object sender, EventArgs e)
+    {
+      if (gvStokBirim.FocusedRowHandle < 0) return;
+      SatirNo = gvStokBirim.FocusedRowHandle;
+      islem = false;
+      NesneEnabled(false);
+      txtStokBirimTanim.Focus();
+    }
+    private void btnVazgec_Click(object sender, EventArgs e)
+    {
+      islem = false;
+      NesneEnabled(true);
+      GridGuncelle();
+      gvStokBirim.FocusedRowHandle = SatirNo;
+    }
+    private void btnKaydet_Click(object sender, EventArgs e)
+    {
+      try
+      {
+        if (txtStokBirimTanim.Text == "")
+        {
+          XtraMessageBox.Show("Zorunlu alan, boş geçilemez.", "Perakende Satış", MessageBoxButtons.OK, MessageBoxIcon.Error);
+          txtStokBirimTanim.Focus();
+          return;
+        }
+
+        SqlCommand cmd = new SqlCommand();
+        cmd.Connection = cs.csBaglanti.BaglantiGetir();
+        cmd.CommandType = CommandType.Text;
+
+        //if (cs.csAyniKayitVarmiKontrolu.kontolET(cs.csBaglanti.BaglantiGetir(), cmd, "StokBirim", islem, gvStokBirim.GetFocusedRowCellDisplayText("StokBirimID"), txtStokBirimTanim.Text))
+        //{
+        //  XtraMessageBox.Show(txtStokBirimTanim.Text + " isimde bir kayıt var zaten.", "Perakende Satış", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        //  return;
+        //}
+        cmd.Parameters.Clear();
+        if (islem)
+        {
+          cmd.CommandText = "Insert Into StokBirim(StokBirimTanim) Values(@StokBirimTanim)";
+        }
+        else
+        {
+          cmd.CommandText = "Update StokBirim Set StokBirimTanim=@StokBirimTanim Where StokBirimID=@StokBirimID";
+          cmd.Parameters.Add("@StokBirimID", SqlDbType.Int).Value = gvStokBirim.GetFocusedRowCellValue("StokBirimID").ToString();
+        }
+
+        cmd.Parameters.Add("@StokBirimTanim", SqlDbType.NVarChar).Value = txtStokBirimTanim.Text;
+        cmd.ExecuteNonQuery();
+
+        NesneEnabled(true);
+        GridGuncelle();
+        if (!islem) gvStokBirim.FocusedRowHandle = SatirNo;
+      }
+      catch (Exception hata)
+      {
+				XtraMessageBox.Show("Hata Kodu : " + hata.Message + "\nHata Açıklama: " + hata.StackTrace, "Erdal Bakkal", MessageBoxButtons.OK, MessageBoxIcon.Error);
+			}
+    }
+    private void btnGuncelle_Click(object sender, EventArgs e)
+    {
+     GridGuncelle();
+    }
+    void GridGuncelle()
+    {
+      dt.Clear();
+      da.Fill(dt);
+    }
+  }
+}
